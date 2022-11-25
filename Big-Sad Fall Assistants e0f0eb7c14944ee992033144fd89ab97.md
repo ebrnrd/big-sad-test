@@ -22,7 +22,7 @@ L’obiettivo è quello di realizzare un gioco semplice che possa essere caricat
 
 # Menu
 
-[Game Design](Big-Sad%20Fall%20Assistants%20e0f0eb7c14944ee992033144fd89ab97/Game%20Design%20019d02aac2c041aa88aff3e848835b6a.md)
+[Game Design Document](Big-Sad%20Fall%20Assistants%20e0f0eb7c14944ee992033144fd89ab97/Game%20Design%20Document%20019d02aac2c041aa88aff3e848835b6a.md)
 
 [Marketing](Big-Sad%20Fall%20Assistants%20e0f0eb7c14944ee992033144fd89ab97/Marketing%2003fe55af91c5414a9d2450e2f3dc947b.md)
 
